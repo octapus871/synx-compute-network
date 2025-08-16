@@ -25,6 +25,9 @@ Follow standard coding practices
 Ensure contributions are open-source compatible (MIT/Apache 2.0 license).
 Respect the community and collaborate constructively
 
+#Resources
+https://github.com/octapus871/synx-compute-network/blob/main/SYNX_litepaper.pdf
+
 #License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Join us and help build a stronger, community-powered AI network!
